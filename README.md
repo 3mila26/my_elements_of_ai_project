@@ -39,6 +39,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+```
 
 ![image of charts](/the_tech_stackjpg.jpg)
 

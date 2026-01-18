@@ -28,6 +28,7 @@ Pythonimport streamlit as st
 from langchain.document_loaders import PyPDFLoader
 from langchain.vectorstores import Chroma
 
+![image of charts](/the_tech_stackjpg.jpg)
 def process_document(pdf_path):
     # This core logic breaks the PDF into searchable 'chunks'
     loader = PyPDFLoader(pdf_path)

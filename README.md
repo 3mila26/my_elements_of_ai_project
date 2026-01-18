@@ -1,5 +1,3 @@
-##Summary)
-
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
@@ -8,7 +6,8 @@ DocuMind: The Intelligent PDF Assistant
 
 Final project for the Building AI course
 
-Summary: DocuMind is an AI-powered document assistant that allows users to upload PDF files and ask questions about their content in plain English. 
+##Summary): 
+DocuMind is an AI-powered document assistant that allows users to upload PDF files and ask questions about their content in plain English. 
 Using Retrieval-Augmented Generation (RAG), it extracts specific information from long documents to provide accurate, context-aware answers instantly.
 
 Background: In an era of information overload, people spend hours scanning long manuals, legal contracts, or academic papers to find specific details.

@@ -22,6 +22,7 @@ The solution is used through a simple web-based interface. A user uploads a file
 3. **Chat:** User asks questions and receives answers based strictly on the document's facts.
 
 
+<img src="https://raw.githubusercontent.com/3mila26/my_elements_of_ai_project/main/the_tech_stackjpg.jpg" width="600" alt="Project Logic">
 
 ```python
 import streamlit as st

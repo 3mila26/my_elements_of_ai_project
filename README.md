@@ -59,3 +59,4 @@ UI components powered by Streamlit.
 
 
 ![image of charts](/the_tech_stackjpg.jpg)
+picture made by AI

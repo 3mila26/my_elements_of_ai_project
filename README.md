@@ -1,4 +1,4 @@
-<# DocuMind: The Intelligent PDF Assistant
+# DocuMind: The Intelligent PDF Assistant
 
 Final project for the Building AI course
 

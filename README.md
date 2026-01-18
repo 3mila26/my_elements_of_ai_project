@@ -1,3 +1,5 @@
+##Summary)
+
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
@@ -62,3 +64,5 @@ UI components powered by Streamlit.
 
 
 picture made by AI
+
+Building AI course project

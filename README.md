@@ -24,11 +24,12 @@ A user uploads a file (e.g., a 50-page insurance policy) and types a question li
 Chat: User asks questions and receives answers based strictly on the document's facts.
 This is ideal for students cramming for exams, lawyers reviewing discovery documents, or homeowners reading appliance manuals.
 
-Pythonimport streamlit as st
+Python:
+
+import streamlit as st
 from langchain.document_loaders import PyPDFLoader
 from langchain.vectorstores import Chroma
 
-![image of charts](/the_tech_stackjpg.jpg)
 def process_document(pdf_path):
     # This core logic breaks the PDF into searchable 'chunks'
     loader = PyPDFLoader(pdf_path)
@@ -55,3 +56,6 @@ To move forward, I would need to implement:Better OCR (Optical Character Recogni
 Integration with citation features so the AI can point to the exact page and paragraph it used.
 AcknowledgmentsInspired by the LangChain documentationMethodology based on the Building AI course by Reaktor and University of Helsinki.
 UI components powered by Streamlit.
+
+
+![image of charts](/the_tech_stackjpg.jpg)

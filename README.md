@@ -41,9 +41,15 @@ if __name__ == "__main__":
 
 ```
 
-![image of charts](/the_tech_stackjpg.jpg)
+Data sources and AI methodsThe project utilizes user-provided PDF files as the primary data source.
+AI might occasionally invent information if the answer isn't clearly in the PDF.Privacy: 
+Uploading sensitive documents to cloud-based APIs requires strict data handling considerations.
+Formatting: PDFs with complex tables are still difficult for standard AI loaders to read.
 
+What next?
+The project could expand to support multi-document analysis. 
+To move forward, I would need to implement:
+Better OCR for scanned images.Local-first processing to ensure 100% user privacy.
 
-picture made by AI
-
-Building AI course project
+Acknowledgments
+Inspired by the Building AI course by Reaktor and University of Helsinki.UI components powered by Streamlit.
